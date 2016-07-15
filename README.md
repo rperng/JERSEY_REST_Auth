@@ -1,3 +1,3 @@
 #REST_Auth using Jersey
 
-contains varios project for REST Auth demo
+contains various projects for REST Auth demo.
